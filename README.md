@@ -1,2 +1,2 @@
-# iot
-solução iot gerenciamento e controle de uma casa. App1
+# IOT
+solução iot gerenciamento e controle de uma casa.
